@@ -1,6 +1,3 @@
-// JustSupport Charity Website (React + TailwindCSS)
-// This is a simplified React website mockup with a chatbot integration (e.g. Tidio or ChatBot.com)
-
 import React from 'react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
